@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PrintEnvelope.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Sender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Управление филиала ФГУП "ГРЧЦ" в ПФО</Value>
+    </Setting>
+    <Setting Name="Where" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ул. Краева, д. 48, г. Ижевск, Удмуртская Республика</Value>
+    </Setting>
+    <Setting Name="Index" Type="System.String" Scope="User">
+      <Value Profile="(Default)">426063</Value>
+    </Setting>
+    <Setting Name="InsertEnvelop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Струйный - маркой назад. Лазерный - маркой вперед.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
